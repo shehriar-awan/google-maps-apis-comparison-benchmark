@@ -1,0 +1,1 @@
+{"request": {"n": 30, "method": "GET", "url": "https://api.brightdata.com/customer/balance", "body": null, "status": 403, "started": "2026-10-01T09:49:17.323500+00:00", "seconds": 0.748}, "response": "Your API key lacks the required permissions for this action. You can change your token permissions at https://brightdata.com/cp/setting/users"}

@@ -1,0 +1,1 @@
+{"request": {"n": 1, "method": "GET", "url": "https://serpapi.com/account.json?api_key=<key>", "body": null, "status": 200, "started": "2026-09-30T17:19:31.906003+00:00", "seconds": 0.298}, "response": {"plan_name": "Free Plan", "searches_per_month": 250, "this_month_usage": 0, "plan_searches_left": 250, "total_searches_left": 250}}

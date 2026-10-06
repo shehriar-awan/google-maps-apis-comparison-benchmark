@@ -1,0 +1,3301 @@
+{
+ "area": "city",
+ "tools": {
+  "lobstr_a": {
+   "what_you_get": {
+    "full address": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "street": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "city": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "ZIP": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "state": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "neighborhood": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "county": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "coordinates": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "plus code": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "time zone": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "phone": {
+     "filled": 97,
+     "of": 100,
+     "pct": 97
+    },
+    "website": {
+     "filled": 82,
+     "of": 100,
+     "pct": 82
+    },
+    "email": {
+     "filled": 54,
+     "of": 100,
+     "pct": 54
+    },
+    "verified email": {
+     "filled": 53,
+     "of": 100,
+     "pct": 53
+    },
+    "extra phone": {
+     "filled": 40,
+     "of": 100,
+     "pct": 40
+    },
+    "social profile": {
+     "filled": 56,
+     "of": 100,
+     "pct": 56
+    },
+    "contact page": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "rating": {
+     "filled": 91,
+     "of": 100,
+     "pct": 91
+    },
+    "review count": {
+     "filled": 91,
+     "of": 100,
+     "pct": 91
+    },
+    "review distribution": {
+     "filled": 92,
+     "of": 100,
+     "pct": 92
+    },
+    "review keywords": {
+     "filled": 62,
+     "of": 100,
+     "pct": 62
+    },
+    "full review texts": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "review snippet": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "main category": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "all categories": {
+     "filled": 56,
+     "of": 100,
+     "pct": 56
+    },
+    "weekly hours": {
+     "filled": 83,
+     "of": 100,
+     "pct": 83
+    },
+    "open now": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "hours confirmed by owner": {
+     "filled": 6,
+     "of": 100,
+     "pct": 6
+    },
+    "description": {
+     "filled": 69,
+     "of": 100,
+     "pct": 69
+    },
+    "claimed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "permanently closed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "temporarily closed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "booking link": {
+     "filled": 51,
+     "of": 100,
+     "pct": 51
+    },
+    "order link": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "attributes": {
+     "filled": 98,
+     "of": 100,
+     "pct": 98
+    },
+    "services menu": {
+     "filled": 62,
+     "of": 100,
+     "pct": 62
+    },
+    "owner posts": {
+     "filled": 45,
+     "of": 100,
+     "pct": 45
+    },
+    "people also search": {
+     "filled": 86,
+     "of": 100,
+     "pct": 86
+    },
+    "web results": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "Q&A": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "popular times": {
+     "filled": 7,
+     "of": 100,
+     "pct": 7
+    },
+    "photo count": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "photos": {
+     "filled": 99,
+     "of": 100,
+     "pct": 99
+    },
+    "photo categories": {
+     "filled": 85,
+     "of": 100,
+     "pct": 85
+    },
+    "street view": {
+     "filled": 98,
+     "of": 100,
+     "pct": 98
+    },
+    "logo": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "_photos_per_place": {
+     "median": 14.0,
+     "max": 118,
+     "total": 2492
+    },
+    "_emails": {
+     "businesses_with_email": 54,
+     "unique_emails": 70,
+     "of": 100
+    },
+    "_email_status": {
+     "valid": 90,
+     "invalid": 6,
+     "unknown": 1
+    }
+   },
+   "is_it_clean": {
+    "records": 100,
+    "raw_rows": 143,
+    "duplicate_ids": 0,
+    "missing_id": 0,
+    "ads": 0,
+    "in_chicago": 100,
+    "dental": 100,
+    "in_area_zip": null,
+    "permanently_closed": 1,
+    "placeholder_emails": [
+     "john.smith@somedomain.com"
+    ],
+    "emails_on_several_businesses": 24,
+    "placeholder_phones": 2,
+    "numbers_as_text_pct": 100
+   }
+  },
+  "lobstr_b": {
+   "what_you_get": {
+    "full address": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "street": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "city": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "ZIP": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "state": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "neighborhood": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "county": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "coordinates": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "plus code": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "time zone": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "phone": {
+     "filled": 99,
+     "of": 100,
+     "pct": 99
+    },
+    "website": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "email": {
+     "filled": 62,
+     "of": 100,
+     "pct": 62
+    },
+    "verified email": {
+     "filled": 61,
+     "of": 100,
+     "pct": 61
+    },
+    "extra phone": {
+     "filled": 53,
+     "of": 100,
+     "pct": 53
+    },
+    "social profile": {
+     "filled": 66,
+     "of": 100,
+     "pct": 66
+    },
+    "contact page": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "rating": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review count": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review distribution": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review keywords": {
+     "filled": 74,
+     "of": 100,
+     "pct": 74
+    },
+    "full review texts": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "review snippet": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "main category": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "all categories": {
+     "filled": 89,
+     "of": 100,
+     "pct": 89
+    },
+    "weekly hours": {
+     "filled": 97,
+     "of": 100,
+     "pct": 97
+    },
+    "open now": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "hours confirmed by owner": {
+     "filled": 10,
+     "of": 100,
+     "pct": 10
+    },
+    "description": {
+     "filled": 91,
+     "of": 100,
+     "pct": 91
+    },
+    "claimed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "permanently closed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "temporarily closed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "booking link": {
+     "filled": 83,
+     "of": 100,
+     "pct": 83
+    },
+    "order link": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "attributes": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "services menu": {
+     "filled": 89,
+     "of": 100,
+     "pct": 89
+    },
+    "owner posts": {
+     "filled": 76,
+     "of": 100,
+     "pct": 76
+    },
+    "people also search": {
+     "filled": 98,
+     "of": 100,
+     "pct": 98
+    },
+    "web results": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "Q&A": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "popular times": {
+     "filled": 15,
+     "of": 100,
+     "pct": 15
+    },
+    "photo count": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "photos": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "photo categories": {
+     "filled": 98,
+     "of": 100,
+     "pct": 98
+    },
+    "street view": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "logo": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "_photos_per_place": {
+     "median": 27.5,
+     "max": 200,
+     "total": 3699
+    },
+    "_emails": {
+     "businesses_with_email": 62,
+     "unique_emails": 79,
+     "of": 100
+    },
+    "_email_status": {
+     "valid": 111,
+     "unknown": 2,
+     "invalid": 2
+    }
+   },
+   "is_it_clean": {
+    "records": 100,
+    "raw_rows": 153,
+    "duplicate_ids": 0,
+    "missing_id": 0,
+    "ads": 0,
+    "in_chicago": 100,
+    "dental": 100,
+    "in_area_zip": null,
+    "permanently_closed": 0,
+    "placeholder_emails": [],
+    "emails_on_several_businesses": 18,
+    "placeholder_phones": 4,
+    "numbers_as_text_pct": 100
+   }
+  },
+  "apify": {
+   "what_you_get": {
+    "full address": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "street": {
+     "filled": 98,
+     "of": 100,
+     "pct": 98
+    },
+    "city": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "ZIP": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "state": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "neighborhood": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "county": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "coordinates": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "plus code": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "time zone": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "phone": {
+     "filled": 96,
+     "of": 100,
+     "pct": 96
+    },
+    "website": {
+     "filled": 68,
+     "of": 100,
+     "pct": 68
+    },
+    "email": {
+     "filled": 39,
+     "of": 100,
+     "pct": 39
+    },
+    "verified email": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "extra phone": {
+     "filled": 33,
+     "of": 100,
+     "pct": 33
+    },
+    "social profile": {
+     "filled": 51,
+     "of": 100,
+     "pct": 51
+    },
+    "contact page": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "rating": {
+     "filled": 84,
+     "of": 100,
+     "pct": 84
+    },
+    "review count": {
+     "filled": 84,
+     "of": 100,
+     "pct": 84
+    },
+    "review distribution": {
+     "filled": 84,
+     "of": 100,
+     "pct": 84
+    },
+    "review keywords": {
+     "filled": 60,
+     "of": 100,
+     "pct": 60
+    },
+    "full review texts": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "review snippet": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "main category": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "all categories": {
+     "filled": 54,
+     "of": 100,
+     "pct": 54
+    },
+    "weekly hours": {
+     "filled": 64,
+     "of": 100,
+     "pct": 64
+    },
+    "open now": {
+     "filled": 64,
+     "of": 100,
+     "pct": 64
+    },
+    "hours confirmed by owner": {
+     "filled": 3,
+     "of": 100,
+     "pct": 3
+    },
+    "description": {
+     "filled": 48,
+     "of": 100,
+     "pct": 48
+    },
+    "claimed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "permanently closed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "temporarily closed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "booking link": {
+     "filled": 31,
+     "of": 100,
+     "pct": 31
+    },
+    "order link": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "attributes": {
+     "filled": 99,
+     "of": 100,
+     "pct": 99
+    },
+    "services menu": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "owner posts": {
+     "filled": 11,
+     "of": 100,
+     "pct": 11
+    },
+    "people also search": {
+     "filled": 54,
+     "of": 100,
+     "pct": 54
+    },
+    "web results": {
+     "filled": 50,
+     "of": 100,
+     "pct": 50
+    },
+    "Q&A": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "popular times": {
+     "filled": 13,
+     "of": 100,
+     "pct": 13
+    },
+    "photo count": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "photos": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "photo categories": {
+     "filled": 54,
+     "of": 100,
+     "pct": 54
+    },
+    "street view": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "logo": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "_photos_per_place": {
+     "median": 7.0,
+     "max": 10,
+     "total": 568
+    },
+    "_emails": {
+     "businesses_with_email": 39,
+     "unique_emails": 58,
+     "of": 100
+    },
+    "_email_status": {}
+   },
+   "is_it_clean": {
+    "records": 100,
+    "raw_rows": 100,
+    "duplicate_ids": 0,
+    "missing_id": 0,
+    "ads": 0,
+    "in_chicago": 100,
+    "dental": 94,
+    "in_area_zip": null,
+    "permanently_closed": 0,
+    "placeholder_emails": [],
+    "emails_on_several_businesses": 17,
+    "placeholder_phones": 0,
+    "numbers_as_text_pct": 0
+   }
+  },
+  "outscraper": {
+   "what_you_get": {
+    "full address": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "street": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "city": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "ZIP": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "state": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "neighborhood": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "county": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "coordinates": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "plus code": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "time zone": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "phone": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "website": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "email": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "verified email": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "extra phone": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "social profile": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "contact page": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "rating": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review count": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review distribution": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review keywords": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "full review texts": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "review snippet": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "main category": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "all categories": {
+     "filled": 87,
+     "of": 100,
+     "pct": 87
+    },
+    "weekly hours": {
+     "filled": 96,
+     "of": 100,
+     "pct": 96
+    },
+    "open now": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "hours confirmed by owner": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "description": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "claimed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "permanently closed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "temporarily closed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "booking link": {
+     "filled": 78,
+     "of": 100,
+     "pct": 78
+    },
+    "order link": {
+     "filled": 78,
+     "of": 100,
+     "pct": 78
+    },
+    "attributes": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "services menu": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "owner posts": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "people also search": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "web results": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "Q&A": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "popular times": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "photo count": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "photos": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "photo categories": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "street view": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "logo": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "_photos_per_place": {
+     "median": 1.0,
+     "max": 1,
+     "total": 100
+    },
+    "_emails": {
+     "businesses_with_email": 0,
+     "unique_emails": 0,
+     "of": 100
+    },
+    "_email_status": {}
+   },
+   "is_it_clean": {
+    "records": 100,
+    "raw_rows": 100,
+    "duplicate_ids": 0,
+    "missing_id": 0,
+    "ads": 0,
+    "in_chicago": 100,
+    "dental": 100,
+    "in_area_zip": null,
+    "permanently_closed": 0,
+    "placeholder_emails": [],
+    "emails_on_several_businesses": 0,
+    "placeholder_phones": 0,
+    "numbers_as_text_pct": 0
+   }
+  },
+  "hasdata_final": {
+   "what_you_get": {
+    "full address": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "street": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "city": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "ZIP": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "state": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "neighborhood": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "county": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "coordinates": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "plus code": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "time zone": {
+     "filled": 99,
+     "of": 100,
+     "pct": 99
+    },
+    "phone": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "website": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "email": {
+     "filled": 45,
+     "of": 100,
+     "pct": 45
+    },
+    "verified email": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "extra phone": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "social profile": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "contact page": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "rating": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review count": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review distribution": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "review keywords": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "full review texts": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "review snippet": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "main category": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "all categories": {
+     "filled": 88,
+     "of": 100,
+     "pct": 88
+    },
+    "weekly hours": {
+     "filled": 99,
+     "of": 100,
+     "pct": 99
+    },
+    "open now": {
+     "filled": 99,
+     "of": 100,
+     "pct": 99
+    },
+    "hours confirmed by owner": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "description": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "claimed": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "permanently closed": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "temporarily closed": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "booking link": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "order link": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "attributes": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "services menu": {
+     "filled": 7,
+     "of": 100,
+     "pct": 7
+    },
+    "owner posts": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "people also search": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "web results": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "Q&A": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "popular times": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "photo count": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "photos": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "photo categories": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "street view": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "logo": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "_photos_per_place": {
+     "median": 1.0,
+     "max": 1,
+     "total": 100
+    },
+    "_emails": {
+     "businesses_with_email": 45,
+     "unique_emails": 60,
+     "of": 100
+    },
+    "_email_status": {}
+   },
+   "is_it_clean": {
+    "records": 100,
+    "raw_rows": 100,
+    "duplicate_ids": 0,
+    "missing_id": 0,
+    "ads": 0,
+    "in_chicago": 100,
+    "dental": 100,
+    "in_area_zip": null,
+    "permanently_closed": 0,
+    "placeholder_emails": [],
+    "emails_on_several_businesses": 16,
+    "placeholder_phones": 0,
+    "numbers_as_text_pct": 0
+   }
+  },
+  "serpapi": {
+   "what_you_get": {
+    "full address": {
+     "filled": 95,
+     "of": 95,
+     "pct": 100
+    },
+    "street": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "city": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "ZIP": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "state": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "neighborhood": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "county": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "coordinates": {
+     "filled": 95,
+     "of": 95,
+     "pct": 100
+    },
+    "plus code": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "time zone": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "phone": {
+     "filled": 94,
+     "of": 95,
+     "pct": 99
+    },
+    "website": {
+     "filled": 95,
+     "of": 95,
+     "pct": 100
+    },
+    "email": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "verified email": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "extra phone": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "social profile": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "contact page": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "rating": {
+     "filled": 95,
+     "of": 95,
+     "pct": 100
+    },
+    "review count": {
+     "filled": 95,
+     "of": 95,
+     "pct": 100
+    },
+    "review distribution": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "review keywords": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "full review texts": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "review snippet": {
+     "filled": 20,
+     "of": 95,
+     "pct": 21
+    },
+    "main category": {
+     "filled": 95,
+     "of": 95,
+     "pct": 100
+    },
+    "all categories": {
+     "filled": 82,
+     "of": 95,
+     "pct": 86
+    },
+    "weekly hours": {
+     "filled": 92,
+     "of": 95,
+     "pct": 97
+    },
+    "open now": {
+     "filled": 92,
+     "of": 95,
+     "pct": 97
+    },
+    "hours confirmed by owner": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "description": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "claimed": {
+     "filled": 95,
+     "of": 95,
+     "pct": 100
+    },
+    "permanently closed": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "temporarily closed": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "booking link": {
+     "filled": 50,
+     "of": 95,
+     "pct": 53
+    },
+    "order link": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "attributes": {
+     "filled": 94,
+     "of": 95,
+     "pct": 99
+    },
+    "services menu": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "owner posts": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "people also search": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "web results": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "Q&A": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "popular times": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "photo count": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "photos": {
+     "filled": 95,
+     "of": 95,
+     "pct": 100
+    },
+    "photo categories": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "street view": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "logo": {
+     "filled": 0,
+     "of": 95,
+     "pct": 0
+    },
+    "_photos_per_place": {
+     "median": 1.0,
+     "max": 1,
+     "total": 100
+    },
+    "_emails": {
+     "businesses_with_email": 0,
+     "unique_emails": 0,
+     "of": 95
+    },
+    "_email_status": {}
+   },
+   "is_it_clean": {
+    "records": 100,
+    "raw_rows": 100,
+    "duplicate_ids": 5,
+    "missing_id": 0,
+    "ads": 0,
+    "in_chicago": 100,
+    "dental": 100,
+    "in_area_zip": null,
+    "permanently_closed": 0,
+    "placeholder_emails": [],
+    "emails_on_several_businesses": 0,
+    "placeholder_phones": 0,
+    "numbers_as_text_pct": 0
+   }
+  },
+  "dataforseo": {
+   "what_you_get": {
+    "full address": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "street": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "city": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "ZIP": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "state": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "neighborhood": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "county": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "coordinates": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "plus code": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "time zone": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "phone": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "website": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "email": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "verified email": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "extra phone": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "social profile": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "contact page": {
+     "filled": 53,
+     "of": 100,
+     "pct": 53
+    },
+    "rating": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review count": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review distribution": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review keywords": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "full review texts": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "review snippet": {
+     "filled": 98,
+     "of": 100,
+     "pct": 98
+    },
+    "main category": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "all categories": {
+     "filled": 73,
+     "of": 100,
+     "pct": 73
+    },
+    "weekly hours": {
+     "filled": 97,
+     "of": 100,
+     "pct": 97
+    },
+    "open now": {
+     "filled": 97,
+     "of": 100,
+     "pct": 97
+    },
+    "hours confirmed by owner": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "description": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "claimed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "permanently closed": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "temporarily closed": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "booking link": {
+     "filled": 36,
+     "of": 100,
+     "pct": 36
+    },
+    "order link": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "attributes": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "services menu": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "owner posts": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "people also search": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "web results": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "Q&A": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "popular times": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "photo count": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "photos": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "photo categories": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "street view": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "logo": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "_photos_per_place": {
+     "median": 1.0,
+     "max": 1,
+     "total": 100
+    },
+    "_emails": {
+     "businesses_with_email": 0,
+     "unique_emails": 0,
+     "of": 100
+    },
+    "_email_status": {}
+   },
+   "is_it_clean": {
+    "records": 100,
+    "raw_rows": 102,
+    "duplicate_ids": 0,
+    "missing_id": 0,
+    "ads": 0,
+    "in_chicago": 100,
+    "dental": 99,
+    "in_area_zip": null,
+    "permanently_closed": 0,
+    "placeholder_emails": [],
+    "emails_on_several_businesses": 0,
+    "placeholder_phones": 0,
+    "numbers_as_text_pct": 0
+   }
+  },
+  "scrapio": {
+   "what_you_get": {
+    "full address": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "street": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "city": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "ZIP": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "state": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "neighborhood": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "county": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "coordinates": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "plus code": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "time zone": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "phone": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "website": {
+     "filled": 87,
+     "of": 100,
+     "pct": 87
+    },
+    "email": {
+     "filled": 64,
+     "of": 100,
+     "pct": 64
+    },
+    "verified email": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "extra phone": {
+     "filled": 44,
+     "of": 100,
+     "pct": 44
+    },
+    "social profile": {
+     "filled": 60,
+     "of": 100,
+     "pct": 60
+    },
+    "contact page": {
+     "filled": 56,
+     "of": 100,
+     "pct": 56
+    },
+    "rating": {
+     "filled": 91,
+     "of": 100,
+     "pct": 91
+    },
+    "review count": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review distribution": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review keywords": {
+     "filled": 70,
+     "of": 100,
+     "pct": 70
+    },
+    "full review texts": {
+     "filled": 91,
+     "of": 100,
+     "pct": 91
+    },
+    "review snippet": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "main category": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "all categories": {
+     "filled": 80,
+     "of": 100,
+     "pct": 80
+    },
+    "weekly hours": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "open now": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "hours confirmed by owner": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "description": {
+     "filled": 53,
+     "of": 100,
+     "pct": 53
+    },
+    "claimed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "permanently closed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "temporarily closed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "booking link": {
+     "filled": 46,
+     "of": 100,
+     "pct": 46
+    },
+    "order link": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "attributes": {
+     "filled": 93,
+     "of": 100,
+     "pct": 93
+    },
+    "services menu": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "owner posts": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "people also search": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "web results": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "Q&A": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "popular times": {
+     "filled": 13,
+     "of": 100,
+     "pct": 13
+    },
+    "photo count": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "photos": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "photo categories": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "street view": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "logo": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "_photos_per_place": {
+     "median": 4.0,
+     "max": 9,
+     "total": 429
+    },
+    "_emails": {
+     "businesses_with_email": 64,
+     "unique_emails": 115,
+     "of": 100
+    },
+    "_email_status": {}
+   },
+   "is_it_clean": {
+    "records": 100,
+    "raw_rows": 100,
+    "duplicate_ids": 0,
+    "missing_id": 0,
+    "ads": 0,
+    "in_chicago": 100,
+    "dental": 100,
+    "in_area_zip": null,
+    "permanently_closed": 9,
+    "placeholder_emails": [],
+    "emails_on_several_businesses": 52,
+    "placeholder_phones": 0,
+    "numbers_as_text_pct": 0
+   }
+  },
+  "scrapingdog": {
+   "what_you_get": {
+    "full address": {
+     "filled": 91,
+     "of": 91,
+     "pct": 100
+    },
+    "street": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "city": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "ZIP": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "state": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "neighborhood": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "county": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "coordinates": {
+     "filled": 91,
+     "of": 91,
+     "pct": 100
+    },
+    "plus code": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "time zone": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "phone": {
+     "filled": 90,
+     "of": 91,
+     "pct": 99
+    },
+    "website": {
+     "filled": 89,
+     "of": 91,
+     "pct": 98
+    },
+    "email": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "verified email": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "extra phone": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "social profile": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "contact page": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "rating": {
+     "filled": 91,
+     "of": 91,
+     "pct": 100
+    },
+    "review count": {
+     "filled": 91,
+     "of": 91,
+     "pct": 100
+    },
+    "review distribution": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "review keywords": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "full review texts": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "review snippet": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "main category": {
+     "filled": 91,
+     "of": 91,
+     "pct": 100
+    },
+    "all categories": {
+     "filled": 73,
+     "of": 91,
+     "pct": 80
+    },
+    "weekly hours": {
+     "filled": 91,
+     "of": 91,
+     "pct": 100
+    },
+    "open now": {
+     "filled": 91,
+     "of": 91,
+     "pct": 100
+    },
+    "hours confirmed by owner": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "description": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "claimed": {
+     "filled": 91,
+     "of": 91,
+     "pct": 100
+    },
+    "permanently closed": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "temporarily closed": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "booking link": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "order link": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "attributes": {
+     "filled": 91,
+     "of": 91,
+     "pct": 100
+    },
+    "services menu": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "owner posts": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "people also search": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "web results": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "Q&A": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "popular times": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "photo count": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "photos": {
+     "filled": 90,
+     "of": 91,
+     "pct": 99
+    },
+    "photo categories": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "street view": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "logo": {
+     "filled": 0,
+     "of": 91,
+     "pct": 0
+    },
+    "_photos_per_place": {
+     "median": 1.0,
+     "max": 1,
+     "total": 99
+    },
+    "_emails": {
+     "businesses_with_email": 0,
+     "unique_emails": 0,
+     "of": 91
+    },
+    "_email_status": {}
+   },
+   "is_it_clean": {
+    "records": 100,
+    "raw_rows": 100,
+    "duplicate_ids": 9,
+    "missing_id": 0,
+    "ads": 0,
+    "in_chicago": 100,
+    "dental": 100,
+    "in_area_zip": null,
+    "permanently_closed": 0,
+    "placeholder_emails": [],
+    "emails_on_several_businesses": 0,
+    "placeholder_phones": 0,
+    "numbers_as_text_pct": 0
+   }
+  },
+  "places": {
+   "what_you_get": {
+    "full address": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "street": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "city": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "ZIP": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "state": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "neighborhood": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "county": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "coordinates": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "plus code": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "time zone": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "phone": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "website": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "email": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "verified email": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "extra phone": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "social profile": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "contact page": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "rating": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "review count": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "review distribution": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "review keywords": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "full review texts": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "review snippet": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "main category": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "all categories": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "weekly hours": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "open now": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "hours confirmed by owner": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "description": {
+     "filled": 2,
+     "of": 60,
+     "pct": 3
+    },
+    "claimed": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "permanently closed": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "temporarily closed": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "booking link": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "order link": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "attributes": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "services menu": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "owner posts": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "people also search": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "web results": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "Q&A": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "popular times": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "photo count": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "photos": {
+     "filled": 60,
+     "of": 60,
+     "pct": 100
+    },
+    "photo categories": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "street view": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "logo": {
+     "filled": 0,
+     "of": 60,
+     "pct": 0
+    },
+    "_photos_per_place": {
+     "median": 10.0,
+     "max": 10,
+     "total": 576
+    },
+    "_emails": {
+     "businesses_with_email": 0,
+     "unique_emails": 0,
+     "of": 60
+    },
+    "_email_status": {}
+   },
+   "is_it_clean": {
+    "records": 60,
+    "raw_rows": 60,
+    "duplicate_ids": 0,
+    "missing_id": 0,
+    "ads": 0,
+    "in_chicago": 60,
+    "dental": 60,
+    "in_area_zip": null,
+    "permanently_closed": 0,
+    "placeholder_emails": [],
+    "emails_on_several_businesses": 0,
+    "placeholder_phones": 0,
+    "numbers_as_text_pct": 0
+   }
+  },
+  "brightdata": {
+   "what_you_get": {
+    "full address": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "street": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "city": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "ZIP": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "state": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "neighborhood": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "county": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "coordinates": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "plus code": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "time zone": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "phone": {
+     "filled": 99,
+     "of": 100,
+     "pct": 99
+    },
+    "website": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "email": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "verified email": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "extra phone": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "social profile": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "contact page": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "rating": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review count": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review distribution": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review keywords": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "full review texts": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "review snippet": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "main category": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "all categories": {
+     "filled": 85,
+     "of": 100,
+     "pct": 85
+    },
+    "weekly hours": {
+     "filled": 99,
+     "of": 100,
+     "pct": 99
+    },
+    "open now": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "hours confirmed by owner": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "description": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "claimed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "permanently closed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "temporarily closed": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "booking link": {
+     "filled": 45,
+     "of": 100,
+     "pct": 45
+    },
+    "order link": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "attributes": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "services menu": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "owner posts": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "people also search": {
+     "filled": 47,
+     "of": 100,
+     "pct": 47
+    },
+    "web results": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "Q&A": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "popular times": {
+     "filled": 5,
+     "of": 100,
+     "pct": 5
+    },
+    "photo count": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "photos": {
+     "filled": 100,
+     "of": 100,
+     "pct": 100
+    },
+    "photo categories": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "street view": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "logo": {
+     "filled": 0,
+     "of": 100,
+     "pct": 0
+    },
+    "_photos_per_place": {
+     "median": 3.0,
+     "max": 6,
+     "total": 253
+    },
+    "_emails": {
+     "businesses_with_email": 0,
+     "unique_emails": 0,
+     "of": 100
+    },
+    "_email_status": {}
+   },
+   "is_it_clean": {
+    "records": 100,
+    "raw_rows": 100,
+    "duplicate_ids": 0,
+    "missing_id": 0,
+    "ads": 0,
+    "in_chicago": 99,
+    "dental": 100,
+    "in_area_zip": null,
+    "permanently_closed": 0,
+    "placeholder_emails": [],
+    "emails_on_several_businesses": 0,
+    "placeholder_phones": 0,
+    "numbers_as_text_pct": 0
+   }
+  }
+ },
+ "is_it_right": {
+  "min_tools": 5,
+  "shared_businesses": 78,
+  "tools": {
+   "lobstr_a": {
+    "agree_pct": 100.0,
+    "compared": 168,
+    "by_field": {
+     "phone": {
+      "agree": 28,
+      "disagree": 0,
+      "missing": 0
+     },
+     "website": {
+      "agree": 28,
+      "disagree": 0,
+      "missing": 0
+     },
+     "rating": {
+      "agree": 28,
+      "disagree": 0,
+      "missing": 0
+     },
+     "reviews": {
+      "agree": 28,
+      "disagree": 0,
+      "missing": 0
+     },
+     "zip": {
+      "agree": 28,
+      "disagree": 0,
+      "missing": 0
+     },
+     "street_no": {
+      "agree": 28,
+      "disagree": 0,
+      "missing": 0
+     }
+    }
+   },
+   "lobstr_b": {
+    "agree_pct": 100.0,
+    "compared": 360,
+    "by_field": {
+     "phone": {
+      "agree": 60,
+      "disagree": 0,
+      "missing": 0
+     },
+     "website": {
+      "agree": 60,
+      "disagree": 0,
+      "missing": 0
+     },
+     "rating": {
+      "agree": 60,
+      "disagree": 0,
+      "missing": 0
+     },
+     "reviews": {
+      "agree": 60,
+      "disagree": 0,
+      "missing": 0
+     },
+     "zip": {
+      "agree": 60,
+      "disagree": 0,
+      "missing": 0
+     },
+     "street_no": {
+      "agree": 60,
+      "disagree": 0,
+      "missing": 0
+     }
+    }
+   },
+   "apify": {
+    "agree_pct": 100.0,
+    "compared": 18,
+    "by_field": {
+     "phone": {
+      "agree": 3,
+      "disagree": 0,
+      "missing": 0
+     },
+     "website": {
+      "agree": 3,
+      "disagree": 0,
+      "missing": 0
+     },
+     "rating": {
+      "agree": 3,
+      "disagree": 0,
+      "missing": 0
+     },
+     "reviews": {
+      "agree": 3,
+      "disagree": 0,
+      "missing": 0
+     },
+     "zip": {
+      "agree": 3,
+      "disagree": 0,
+      "missing": 0
+     },
+     "street_no": {
+      "agree": 3,
+      "disagree": 0,
+      "missing": 0
+     }
+    }
+   },
+   "outscraper": {
+    "agree_pct": 100.0,
+    "compared": 414,
+    "by_field": {
+     "phone": {
+      "agree": 69,
+      "disagree": 0,
+      "missing": 0
+     },
+     "website": {
+      "agree": 69,
+      "disagree": 0,
+      "missing": 0
+     },
+     "rating": {
+      "agree": 69,
+      "disagree": 0,
+      "missing": 0
+     },
+     "reviews": {
+      "agree": 69,
+      "disagree": 0,
+      "missing": 0
+     },
+     "zip": {
+      "agree": 69,
+      "disagree": 0,
+      "missing": 0
+     },
+     "street_no": {
+      "agree": 69,
+      "disagree": 0,
+      "missing": 0
+     }
+    }
+   },
+   "hasdata_final": {
+    "agree_pct": 100.0,
+    "compared": 372,
+    "by_field": {
+     "phone": {
+      "agree": 62,
+      "disagree": 0,
+      "missing": 0
+     },
+     "website": {
+      "agree": 62,
+      "disagree": 0,
+      "missing": 0
+     },
+     "rating": {
+      "agree": 62,
+      "disagree": 0,
+      "missing": 0
+     },
+     "reviews": {
+      "agree": 62,
+      "disagree": 0,
+      "missing": 0
+     },
+     "zip": {
+      "agree": 62,
+      "disagree": 0,
+      "missing": 0
+     },
+     "street_no": {
+      "agree": 62,
+      "disagree": 0,
+      "missing": 0
+     }
+    }
+   },
+   "serpapi": {
+    "agree_pct": 100.0,
+    "compared": 402,
+    "by_field": {
+     "phone": {
+      "agree": 67,
+      "disagree": 0,
+      "missing": 0
+     },
+     "website": {
+      "agree": 67,
+      "disagree": 0,
+      "missing": 0
+     },
+     "rating": {
+      "agree": 67,
+      "disagree": 0,
+      "missing": 0
+     },
+     "reviews": {
+      "agree": 67,
+      "disagree": 0,
+      "missing": 0
+     },
+     "zip": {
+      "agree": 67,
+      "disagree": 0,
+      "missing": 0
+     },
+     "street_no": {
+      "agree": 67,
+      "disagree": 0,
+      "missing": 0
+     }
+    }
+   },
+   "dataforseo": {
+    "agree_pct": 100.0,
+    "compared": 300,
+    "by_field": {
+     "phone": {
+      "agree": 50,
+      "disagree": 0,
+      "missing": 0
+     },
+     "website": {
+      "agree": 50,
+      "disagree": 0,
+      "missing": 0
+     },
+     "rating": {
+      "agree": 50,
+      "disagree": 0,
+      "missing": 0
+     },
+     "reviews": {
+      "agree": 50,
+      "disagree": 0,
+      "missing": 0
+     },
+     "zip": {
+      "agree": 50,
+      "disagree": 0,
+      "missing": 0
+     },
+     "street_no": {
+      "agree": 50,
+      "disagree": 0,
+      "missing": 0
+     }
+    }
+   },
+   "scrapio": {
+    "agree_pct": 97.5,
+    "compared": 80,
+    "by_field": {
+     "phone": {
+      "agree": 16,
+      "disagree": 0,
+      "missing": 0
+     },
+     "website": {
+      "agree": 16,
+      "disagree": 0,
+      "missing": 0
+     },
+     "rating": {
+      "agree": 16,
+      "disagree": 0,
+      "missing": 0
+     },
+     "reviews": {
+      "agree": 14,
+      "disagree": 2,
+      "missing": 0
+     },
+     "zip": {
+      "agree": 16,
+      "disagree": 0,
+      "missing": 0
+     },
+     "street_no": {
+      "agree": 0,
+      "disagree": 0,
+      "missing": 16
+     }
+    }
+   },
+   "scrapingdog": {
+    "agree_pct": 100.0,
+    "compared": 300,
+    "by_field": {
+     "phone": {
+      "agree": 50,
+      "disagree": 0,
+      "missing": 0
+     },
+     "website": {
+      "agree": 50,
+      "disagree": 0,
+      "missing": 0
+     },
+     "rating": {
+      "agree": 50,
+      "disagree": 0,
+      "missing": 0
+     },
+     "reviews": {
+      "agree": 50,
+      "disagree": 0,
+      "missing": 0
+     },
+     "zip": {
+      "agree": 50,
+      "disagree": 0,
+      "missing": 0
+     },
+     "street_no": {
+      "agree": 50,
+      "disagree": 0,
+      "missing": 0
+     }
+    }
+   },
+   "places": {
+    "agree_pct": 100.0,
+    "compared": 324,
+    "by_field": {
+     "phone": {
+      "agree": 54,
+      "disagree": 0,
+      "missing": 0
+     },
+     "website": {
+      "agree": 54,
+      "disagree": 0,
+      "missing": 0
+     },
+     "rating": {
+      "agree": 54,
+      "disagree": 0,
+      "missing": 0
+     },
+     "reviews": {
+      "agree": 54,
+      "disagree": 0,
+      "missing": 0
+     },
+     "zip": {
+      "agree": 54,
+      "disagree": 0,
+      "missing": 0
+     },
+     "street_no": {
+      "agree": 54,
+      "disagree": 0,
+      "missing": 0
+     }
+    }
+   },
+   "brightdata": {
+    "agree_pct": 99.7,
+    "compared": 342,
+    "by_field": {
+     "phone": {
+      "agree": 57,
+      "disagree": 0,
+      "missing": 0
+     },
+     "website": {
+      "agree": 57,
+      "disagree": 0,
+      "missing": 0
+     },
+     "rating": {
+      "agree": 56,
+      "disagree": 1,
+      "missing": 0
+     },
+     "reviews": {
+      "agree": 57,
+      "disagree": 0,
+      "missing": 0
+     },
+     "zip": {
+      "agree": 57,
+      "disagree": 0,
+      "missing": 0
+     },
+     "street_no": {
+      "agree": 57,
+      "disagree": 0,
+      "missing": 0
+     }
+    }
+   }
+  },
+  "disagreements": {
+   "scrapio:reviews": [
+    {
+     "id": "ChIJ48FbMJssDogR6laBwsT4Rik",
+     "name": "Dentologie - South Loop",
+     "tool": 699,
+     "majority": 708
+    },
+    {
+     "id": "ChIJ10oyrlvSD4gRawNaPt5kyzw",
+     "name": "Belmont Dental Care",
+     "tool": 293,
+     "majority": 296
+    }
+   ],
+   "brightdata:rating": [
+    {
+     "id": "ChIJo1hY-KUsDogR8NpasFqH-xY",
+     "name": "Allure Dental Chicago - Michigan Ave",
+     "tool": 4.7,
+     "majority": 4.8
+    }
+   ]
+  }
+ }
+}

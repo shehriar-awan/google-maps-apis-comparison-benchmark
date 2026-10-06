@@ -1,0 +1,1 @@
+{"request": {"n": 5, "method": "GET", "url": "https://api.brightdata.com/datasets/v3/progress/sd_mupclbam20t10vf15l", "body": null, "status": 200, "started": "2026-10-01T09:45:06.164816+00:00", "seconds": 0.748}, "response": {"status": "running", "snapshot_id": "sd_mupclbam20t10vf15l", "dataset_id": "gd_m8ebnr0q2qlklc02fz", "running_time": 22399}}

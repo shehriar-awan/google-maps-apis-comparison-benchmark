@@ -1,0 +1,1 @@
+{"request": {"n": 3, "method": "GET", "url": "https://api.app.outscraper.com/requests/a-aacd390f-cd77-4837-8f57-913b1761730f", "body": null, "status": 200, "started": "2026-10-01T09:44:39.123808+00:00", "seconds": 0.594}, "response": {"id": "a-aacd390f-cd77-4837-8f57-913b1761730f", "status": "Pending", "description": "Results are expired, or the task is not yet finished"}}

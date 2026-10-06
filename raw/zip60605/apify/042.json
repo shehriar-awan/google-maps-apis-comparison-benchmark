@@ -1,0 +1,1 @@
+{"request": {"n": 42, "method": "GET", "url": "https://api.apify.com/v2/users/me/limits", "body": null, "status": 200, "started": "2026-10-01T09:51:40.258529+00:00", "seconds": 0.807}, "response": {"data": {"current": {"monthlyUsageUsd": 0.9933718881758444}}}}

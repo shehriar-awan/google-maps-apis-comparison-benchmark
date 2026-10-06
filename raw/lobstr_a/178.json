@@ -1,0 +1,1 @@
+{"request": {"n": 178, "method": "GET", "url": "https://api.lobstr.io/v1/user/balance", "body": null, "status": 200, "started": "2026-09-30T17:50:19.965835+00:00", "seconds": 0.502}, "response": {"object": "plan", "name": "free", "interval": "monthly", "available": 100, "consumed": 5140}}

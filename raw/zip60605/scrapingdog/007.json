@@ -1,0 +1,1 @@
+{"request": {"n": 7, "method": "GET", "url": "https://api.scrapingdog.com/account?api_key=<key>", "body": null, "status": 200, "started": "2026-10-01T09:44:52.202810+00:00", "seconds": 0.938}, "response": {"pack": "lite", "pack_type": "monthly", "requestLimit": 200100, "requestUsed": 1480}}

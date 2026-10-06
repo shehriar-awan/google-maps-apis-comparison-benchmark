@@ -1,0 +1,1 @@
+{"request": {"n": 4, "method": "GET", "url": "https://scrap.io/api/v1/subscription", "body": null, "status": 200, "started": "2026-09-30T17:24:46.525510+00:00", "seconds": 1.216}, "response": {"subscription": {"plan": "Basic plan", "on_trial": true, "features": {"EXPORT_CREDITS": {"name": "Monthly export credits", "consumed": 100, "remaining": 9900, "total": 10000}}}}}
